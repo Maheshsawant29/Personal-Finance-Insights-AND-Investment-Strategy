@@ -1,5 +1,5 @@
 # Financial Insights and Investment Strategy
-📄 **[View the Full Report (PDF)]()**
+📄 **[View the Full Report (PDF)](https://github.com/Maheshsawant29/Personal-Finance-Insights-AND-Investment-Strategy/blob/main/Study%20Research%20report.pdf)**
 
 
 
