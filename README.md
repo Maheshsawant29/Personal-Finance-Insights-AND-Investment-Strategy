@@ -1,7 +1,4 @@
 # Financial Insights and Investment Strategy
-📄 **[View the Full Report (PDF)](📄 **[View the Full Report (PDF)](PASTE_YOUR_PDF_LINK_HERE)**
-)**
-
 
 ## About the Study
 This repository contains a study-based research report developed from my personal learning and understanding of finance and investment fundamentals.
