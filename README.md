@@ -24,6 +24,12 @@ This work is strictly for educational and learning purposes and does not constit
 ## Author
 Mahesh Sawant  
 BTech CS (AIML) Student  
-Aspiring Research Analyst & Data Analyst
+Aspiring Research Analyst & Bussiness Analyst
+
+## License
+© 2025 Mahesh Sawant  
+This research work is licensed under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**  
+🔗 https://creativecommons.org/licenses/by-nc-nd/4.0/
+
 
 
